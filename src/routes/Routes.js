@@ -9,7 +9,7 @@ const routes = [
     {
         path: '/',
         exact: true,
-        main: () => <Home />
+        main: () => <TimesheetRecord />
     },
     {
         path: '/Home',
